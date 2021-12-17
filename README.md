@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaxWasUnavailable
 - 👀 I’m interested in Programming (duh), tech, and niche simulation games.
 - 🌱 I’m currently learning software engineering principles.
-- 💞️ I’m looking to collaborate on the Starbase Open Source Community Website Project (name not final).
+- 💞️ I’m looking to collaborate on the Starbase EndoLink website project.
 - 📫 How to reach me: Max#0007 on Discord.
 
 <!---
